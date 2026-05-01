@@ -129,6 +129,11 @@
 * [import.io, turn web pages into Data](https://www.import.io/).
 * [RAML, RESTful API Modeling Language](http://raml.org).
 * [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
+
+### Monitoring
+
+* [APIWatch](https://github.com/155143783/apiwatch) - API health monitoring tool with x402 payment support for premium tiers.
+* [x402-data-api](https://github.com/155143783/x402-data-api) - Developer data APIs with HTTP 402 micropayment protocol.
 * [swagger.io](http://swagger.io).
 
 ## Libraries
